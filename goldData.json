@@ -1,0 +1,107 @@
+[
+  {
+    "date": "03-01-22",
+    "priceInOz": "134,225",
+    "priceInGrams": "4,315.43"
+  },
+  {
+    "date": "04-01-22",
+    "priceInOz": "135,199",
+    "priceInGrams": "4,346.75"
+  },
+  {
+    "date": "05-01-22",
+    "priceInOz": "134,742",
+    "priceInGrams": "4,332.04"
+  },
+  {
+    "date": "06-01-22",
+    "priceInOz": "133,316",
+    "priceInGrams": "4,286.22"
+  },
+  {
+    "date": "07-01-22",
+    "priceInOz": "133,348",
+    "priceInGrams": "4,287.24"
+  },
+  {
+    "date": "10-01-22",
+    "priceInOz": "133,414",
+    "priceInGrams": "4,289.35"
+  },
+  {
+    "date": "11-01-22",
+    "priceInOz": "134,408",
+    "priceInGrams": "4,321.32"
+  },
+  {
+    "date": "12-01-22",
+    "priceInOz": "134,710",
+    "priceInGrams": "4,331.02"
+  },
+  {
+    "date": "13-01-22",
+    "priceInOz": "134,716",
+    "priceInGrams": "4,331.21"
+  },
+  {
+    "date": "14-01-22",
+    "priceInOz": "134,773",
+    "priceInGrams": "4,333.06"
+  },
+  {
+    "date": "17-01-22",
+    "priceInOz": "135,086",
+    "priceInGrams": "4,343.13"
+  },
+  {
+    "date": "18-01-22",
+    "priceInOz": "135,385",
+    "priceInGrams": "4,352.72"
+  },
+  {
+    "date": "19-01-22",
+    "priceInOz": "136,884",
+    "priceInGrams": "4,400.94"
+  },
+  {
+    "date": "20-01-22",
+    "priceInOz": "136,901",
+    "priceInGrams": "4,401.47"
+  },
+  {
+    "date": "21-01-22",
+    "priceInOz": "136,531",
+    "priceInGrams": "4,389.58"
+  },
+  {
+    "date": "24-01-22",
+    "priceInOz": "137,612",
+    "priceInGrams": "4,424.34"
+  },
+  {
+    "date": "25-01-22",
+    "priceInOz": "138,295",
+    "priceInGrams": "4,446.27"
+  },
+  {
+    "date": "26-01-22",
+    "priceInOz": "136,708",
+    "priceInGrams": "4,395.26"
+  },
+  {
+    "date": "27-01-22",
+    "priceInOz": "135,174",
+    "priceInGrams": "4,345.95"
+  },
+  {
+    "date": "28-01-22",
+    "priceInOz": "134,411",
+    "priceInGrams": "4,321.43"
+  },
+  {
+    "date": "31-01-22",
+    "priceInOz": "134,045",
+    "priceInGrams": "4,309.66"
+  }
+]
